@@ -13,6 +13,11 @@ updates:
   - ryu22e
   assignees:
   - ryu22e
+  ignore:
+    - dependency-name: "black"
+    - dependency-name: "isort"
+    - dependency-name: "mypy"
+    - dependency-name: "ruff"
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
