@@ -31,6 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Cache Requests
+        id: cache-requests
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache-requests
+        key: ${{ runner.os }}-requests
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -38,7 +44,8 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements_dev.txt
       - run: mkdir -p public/img
-      - run: ./build.py -o public/img/japanmap.png
+      - run: mkdir -p ~/.cache-requests
+      - run: ./build.py -o public/img/japanmap.png -c ~/.cache-requests
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
