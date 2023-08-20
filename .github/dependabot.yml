@@ -18,6 +18,76 @@ updates:
     - dependency-name: "isort"
     - dependency-name: "mypy"
     - dependency-name: "ruff"
+  groups:
+    beautifulsoup4-dependencies:
+      dependency-type: "production"
+      patterns:
+        - "beautifulsoup4"
+        - "soupsieve"
+        - "types-beautifulsoup4"
+        - "types-html5lib"
+    japanmap-dependencies:
+      dependency-type: "production"
+      patterns:
+        - "japanmap"
+        - "opencv-python"
+        - "numpy"
+    matplotlib-dependencies:
+      dependency-type: "production"
+      patterns:
+        - "matplotlib"
+        - "contourpy"
+        - "cycler"
+        - "fonttools"
+        - "kiwisolver"
+        - "numpy"
+        - "packaging"
+        - "Pillow"
+        - "pyparsing"
+        - "python-dateutil"
+        - "six"
+        - "types-beautifulsoup4"
+        - "types-html5lib"
+    requests-cache-dependencies:
+      dependency-type: "production"
+      patterns:
+        - "requests-cache"
+        - "attrs"
+        - "cattrs"
+        - "attrs"
+        - "platformdirs"
+        - "requests"
+        - "certifi"
+        - "charset-normalizer"
+        - "idna"
+        - "urllib3"
+        - "url-normalize"
+        - "six"
+        - "urllib3"
+    pre-commit-dependencies:
+      dependency-type: "development"
+      patterns:
+        - "cfgv"
+        - "identify"
+        - "nodeenv"
+        - "setuptools"
+        - "PyYAML"
+        - "virtualenv"
+        - "distlib"
+        - "filelock"
+        - "platformdirs"
+    pytest-dependencies:
+      dependency-type: "development"
+      patterns:
+        - "pytest"
+        - "iniconfig"
+        - "packaging"
+        - "pluggy"
+        - "pytest-*"
+        - "responses"
+        - "PyYAML"
+        - "types-PyYAML"
+        - "urllib3"
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
