@@ -3,13 +3,13 @@ beautifulsoup4==4.12.2
 cattrs==23.1.2
 certifi==2023.7.22
 charset-normalizer==3.3.0
-contourpy==1.1.1
+contourpy==1.2.0
 cycler==0.12.1
-fonttools==4.43.1
+fonttools==4.44.0
 idna==3.4
 japanmap==0.3.1
 kiwisolver==1.4.5
-matplotlib==3.8.0
+matplotlib==3.8.1
 numpy==1.26.1
 opencv-python==4.8.1.78
 packaging==23.2
