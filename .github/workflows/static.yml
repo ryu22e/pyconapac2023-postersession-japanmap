@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Cache Requests
         id: cache-requests
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.cache-requests
           key: ${{ runner.os }}-requests
