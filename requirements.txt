@@ -6,7 +6,7 @@ charset-normalizer==3.3.2
 contourpy==1.2.1
 cycler==0.12.1
 fonttools==4.53.1
-idna==3.7
+idna==3.8
 japanmap==0.3.2
 kiwisolver==1.4.5
 matplotlib==3.9.2
