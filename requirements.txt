@@ -8,7 +8,7 @@ cycler==0.12.1
 fonttools==4.53.1
 idna==3.8
 japanmap==0.3.2
-kiwisolver==1.4.5
+kiwisolver==1.4.7
 matplotlib==3.9.2
 numpy==2.1.1
 opencv-python==4.10.0.84
