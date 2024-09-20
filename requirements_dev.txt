@@ -7,7 +7,7 @@ click==8.1.7
 distlib==0.3.8
 filelock==3.16.0
 identify==2.6.0
-idna==3.8
+idna==3.10
 iniconfig==2.0.0
 isort==5.12.0
 mypy==1.4.1
@@ -15,7 +15,7 @@ mypy-extensions==1.0.0
 nodeenv==1.9.1
 packaging==24.1
 pathspec==0.12.1
-platformdirs==4.3.3
+platformdirs==4.3.6
 pluggy==1.5.0
 pre-commit==3.8.0
 pytest==8.3.3
