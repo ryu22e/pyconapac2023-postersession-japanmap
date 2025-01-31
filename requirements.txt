@@ -10,8 +10,8 @@ idna==3.10
 japanmap==0.6.0
 kiwisolver==1.4.8
 matplotlib==3.10.0
-numpy==2.2.1
-opencv-python==4.10.0.84
+numpy==2.2.2
+opencv-python==4.11.0.86
 packaging==24.2
 Pillow==11.0.0
 platformdirs==4.3.6
