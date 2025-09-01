@@ -1,5 +1,5 @@
 attrs==25.3.0
-beautifulsoup4==4.13.4
+beautifulsoup4==4.13.5
 cattrs==25.2.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
@@ -20,6 +20,6 @@ python-dateutil==2.9.0.post0
 requests==2.32.5
 requests-cache==1.2.1
 six==1.17.0
-soupsieve==2.7
+soupsieve==2.8
 url-normalize==2.2.1
 urllib3==2.5.0
