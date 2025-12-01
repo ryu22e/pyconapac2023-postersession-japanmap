@@ -26,7 +26,7 @@ requests==2.32.5
 responses==0.25.8
 ruff==0.0.283
 types-beautifulsoup4==4.12.0.20250516
-types-html5lib==1.1.11.20251014
+types-html5lib==1.1.11.20251117
 types-PyYAML==6.0.12.20250915
 types-requests==2.32.4.20250913
 types-urllib3==1.26.25.14
