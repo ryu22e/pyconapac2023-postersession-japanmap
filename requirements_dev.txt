@@ -31,5 +31,5 @@ types-PyYAML==6.0.12.20250915
 types-requests==2.32.4.20250913
 types-urllib3==1.26.25.14
 typing_extensions==4.15.0
-urllib3==2.5.0
+urllib3==2.6.0
 virtualenv==20.35.4
