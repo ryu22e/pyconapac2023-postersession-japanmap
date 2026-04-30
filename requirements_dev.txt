@@ -2,7 +2,7 @@
 black==26.3.1
 certifi==2026.2.25
 cfgv==3.5.0
-charset-normalizer==3.4.4
+charset-normalizer==3.4.6
 click==8.3.1
 distlib==0.4.0
 filelock==3.25.2
@@ -15,14 +15,14 @@ mypy-extensions==1.1.0
 nodeenv==1.10.0
 packaging==26.0
 pathspec==1.0.4
-platformdirs==4.9.2
+platformdirs==4.9.4
 pluggy==1.6.0
 pre-commit==4.5.1
 pytest==9.0.3
 pytest-randomly==4.0.1
 pytest-responses==0.5.1
 PyYAML==6.0.3
-requests==2.33.0
+requests==2.33.1
 responses==0.26.0
 ruff==0.0.283
 types-beautifulsoup4==4.12.0.20250516
