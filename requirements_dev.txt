@@ -19,7 +19,7 @@ platformdirs==4.9.6
 pluggy==1.6.0
 pre-commit==4.5.1
 pytest==9.0.3
-pytest-randomly==4.0.1
+pytest-randomly==4.1.0
 pytest-responses==0.5.1
 PyYAML==6.0.3
 requests==2.33.1
@@ -27,7 +27,7 @@ responses==0.26.0
 ruff==0.0.283
 types-beautifulsoup4==4.12.0.20250516
 types-html5lib==1.1.11.20251117
-types-PyYAML==6.0.12.20250915
+types-PyYAML==6.0.12.20260408
 types-requests==2.33.0.20260408
 types-urllib3==1.26.25.14
 typing_extensions==4.15.0
