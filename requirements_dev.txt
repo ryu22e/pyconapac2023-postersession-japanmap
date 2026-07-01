@@ -28,7 +28,7 @@ ruff==0.0.283
 types-beautifulsoup4==4.12.0.20250516
 types-html5lib==1.1.11.20260408
 types-PyYAML==6.0.12.20260408
-types-requests==2.33.0.20260408
+types-requests==2.33.0.20260518
 types-urllib3==1.26.25.14
 typing_extensions==4.15.0
 urllib3==2.7.0
