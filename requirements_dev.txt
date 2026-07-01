@@ -23,11 +23,11 @@ pytest-randomly==4.1.0
 pytest-responses==0.5.1
 PyYAML==6.0.3
 requests==2.34.2
-responses==0.26.0
+responses==0.26.1
 ruff==0.0.283
 types-beautifulsoup4==4.12.0.20250516
 types-html5lib==1.1.11.20260518
-types-PyYAML==6.0.12.20260408
+types-PyYAML==6.0.12.20260518
 types-requests==2.33.0.20260518
 types-urllib3==1.26.25.14
 typing_extensions==4.15.0
