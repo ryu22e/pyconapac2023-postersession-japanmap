@@ -9,11 +9,11 @@ fonttools==4.63.0
 idna==3.17
 japanmap==0.6.0
 kiwisolver==1.5.0
-matplotlib==3.10.9
+matplotlib==3.11.0
 numpy==2.4.6
 opencv-python==4.13.0.92
 packaging==26.2
-Pillow==12.2.0
+Pillow==12.3.0
 platformdirs==4.10.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
