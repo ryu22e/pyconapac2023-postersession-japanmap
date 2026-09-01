@@ -5,7 +5,7 @@ cfgv==3.5.0
 charset-normalizer==3.4.7
 click==8.4.2
 distlib==0.4.3
-filelock==3.29.4
+filelock==3.32.2
 identify==2.6.19
 idna==3.18
 iniconfig==2.3.0
@@ -32,4 +32,4 @@ types-requests==2.33.0.20260518
 types-urllib3==1.26.25.14
 typing_extensions==4.16.0
 urllib3==2.7.0
-virtualenv==21.5.1
+virtualenv==21.7.1
