@@ -30,6 +30,6 @@ types-html5lib==1.1.11.20260518
 types-PyYAML==6.0.12.20260518
 types-requests==2.33.0.20260518
 types-urllib3==1.26.25.14
-typing_extensions==4.15.0
+typing_extensions==4.16.0
 urllib3==2.7.0
 virtualenv==21.5.1
