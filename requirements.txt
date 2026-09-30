@@ -22,4 +22,4 @@ requests-cache==1.3.3
 six==1.17.0
 soupsieve==2.9.1
 url-normalize==3.0.0
-urllib3==2.7.0
+urllib3==2.8.0
