@@ -32,4 +32,4 @@ types-requests==2.33.0.20260712
 types-urllib3==1.26.25.14
 typing_extensions==4.16.0
 urllib3==2.8.0
-virtualenv==21.7.7
+virtualenv==21.7.13
