@@ -5,7 +5,7 @@ cfgv==3.5.0
 charset-normalizer==3.5.1
 click==8.5.0
 distlib==0.4.3
-filelock==3.32.5
+filelock==4.2.1
 identify==2.6.19
 idna==3.19
 iniconfig==2.3.0
