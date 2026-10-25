@@ -1,5 +1,5 @@
 -r requirements.txt
-black==26.3.1
+black==26.10.1
 certifi==2026.7.22
 cfgv==3.5.0
 charset-normalizer==3.5.1
